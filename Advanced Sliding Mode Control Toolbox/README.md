@@ -22,4 +22,4 @@
 # 
 #
 #### Copyright (C) 2017 Masoud Moghaddasi MATLAB R2016a
-#### This software is distributed under the GNU General Public Licence V3
+#### This software is distributed under the GNU General Public Licence V2
