@@ -6,7 +6,7 @@
 #
 #
 
-![plot](./Images/ToolboxGUI1.PNG)
+![plot](./Images/ToolboxGUI.PNG)
 #### Graphical User Interface of tha ASMC toolbox.
 
 # 
