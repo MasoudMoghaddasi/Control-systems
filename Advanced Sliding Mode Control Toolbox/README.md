@@ -3,7 +3,7 @@
 #### This toolbox is implemented to visualize the examples of the [1]. By changing the parameters of examples, a wide set of systems can be covered. This toolbox aims to give freedom to the users for changing the parameters in a graphical environment.
 
 
-![plot](./Images/ToolboxGUI.png)
+![plot](./Images/ToolboxGUI.PNG)
 #### Graphical User Interface of tha ASMC toolbox.
 
 # 
