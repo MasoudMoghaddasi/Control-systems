@@ -1,9 +1,12 @@
 # Advanced Sliding Mode Control (ASMC) Toolbox 
 
-#### This toolbox is implemented to visualize the examples of the [1]. By changing the parameters of examples, a wide set of systems can be covered. This toolbox aims to give freedom to the users for changing the parameters in a graphical environment.
+#### This toolbox is implemented to visualize the examples of [1]. 
+#### By changing the parameters of examples, a wide set of systems can be covered. 
+#### This toolbox aims to give freedom to the users for changing the parameters in a graphical environment.
+#
+#
 
-
-![plot](./Images/ToolboxGUI.PNG)
+![plot](./Images/ToolboxGUI1.PNG)
 #### Graphical User Interface of tha ASMC toolbox.
 
 # 
