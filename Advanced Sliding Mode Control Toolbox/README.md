@@ -5,7 +5,7 @@
 #### This toolbox aims to give freedom to the users for changing the parameters in a graphical environment.
 #
 ![plot](./Images/ToolboxGUI.PNG)
-Graphical User Interface of tha ASMC toolbox. 
+##### Graphical User Interface of tha ASMC toolbox. 
 #
 ## History:
     2017  The first official version of the Toolbox by Masoud Moghaddasi
